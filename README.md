@@ -33,7 +33,7 @@
 
 ## 宝石
 
-宝石は３種類があって、点数は違う。ゲームを始めると、全ての宝石が見えるけど、近づけない。Unityーchanは墜ちたら、違う世界にいるみたいだけど、実は宝石の場所が変わらない、ただ「隠れた」。
+宝石は2種類があって、点数は違う。ゲームを始めると、全ての宝石が見えるけど、近づけない。Unityーchanは墜ちたら、違う世界にいるみたいだけど、実は宝石の場所が変わらない、ただ「隠れた」。
 <p align="center">
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/gem.png" alt="SRN">
 </p>
