@@ -11,21 +11,27 @@
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/unitychan.png" alt="SRN">
 </p>
 * コウモリ
+
 通路でよく出現し、往復の移動で通行の邪魔をする。
 
 <p align="center">
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/bat.png" alt="SRN">
 </p>
 * ミイラ
+
 ピラミッドの付近よく出てきた。クネクネと動いて他のビラミッドを探している。
 <p align="center">
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/mummy.png" alt="SRN">
 </p>
 * 業火
+
 長い距離を高速移動している。
 <p align="center">
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/fire.png" alt="SRN">
 </p>
 
-
+## 宝石
+<p align="center">
+  <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/gem.png" alt="SRN">
+</p>
 連絡先：zhqi@outlook.jp
