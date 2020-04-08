@@ -5,6 +5,7 @@
 
 ## キャラクタ
 * Unity-chan
+　方向キーで移動、スペースキーでジャンプ
 <p align="center">
   <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/unitychan.png" alt="SRN">
 </p>
