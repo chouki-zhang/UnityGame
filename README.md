@@ -48,7 +48,7 @@
 この作品に通じて、ゲームの仕組みと開発の流れを理解しました。
 
 <p align="center">
-  <img width="700" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/gem.png" alt="SRN">
+  <img width="700" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/1.png" alt="SRN">
 </p>
 
 連絡先：zhqi@outlook.jp
