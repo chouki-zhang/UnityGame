@@ -47,4 +47,8 @@
 ゲームの開発に興味があるので、独学でUnityを勉強して、この作品を作りました。
 この作品に通じて、ゲームの仕組みと開発の流れを理解しました。
 
+<p align="center">
+  <img width="700" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/gem.png" alt="SRN">
+</p>
+
 連絡先：zhqi@outlook.jp
