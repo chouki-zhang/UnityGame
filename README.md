@@ -1,13 +1,25 @@
-# UnityGame
+# 宝石隠れん坊　
 
-Unityで作ったゲーム（ソースコード付き）。
-「Unity-chan を操作して宝石を食べ尽くしましょう」って思う？そんなに簡単ではありません！
+主人公「Unity-chan」は宝石を集めるために、謎のブロックで構成された世界に墜ちた。宝石が隠れ、モンスター達も襲来！
+プレイヤーは4方向レバーを利用し、Unity-chanを操作し、モンスター達の追跡をかわしながらに宝石を見つけだす。全ての宝石を食べ尽くすと次のレベルに進める。各レベルを通じて迷路が変化して、難易度が少し上昇した状態で次のレベルが開始される。
+
+## キャラクタ
+* Unity-chan
 <p align="center">
-  <img width="700" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/1.png" alt="SRN">
+  <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/unitychan.png" alt="SRN">
 </p>
-異世界に墜ちって、宝石が隠れて、モンスター達も襲来、どうしよう？？？
+* コウモリ
 <p align="center">
-  <img width="700" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/2.png" alt="SRN">
+  <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/bat.png" alt="SRN">
 </p>
+* ミイラ
+<p align="center">
+  <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/mummy.png" alt="SRN">
+</p>
+* 業火
+<p align="center">
+  <img width="400" src="https://github.com/chouki-zhang/UnityGame/blob/master/introduction/fire.png" alt="SRN">
+</p>
+
 
 連絡先：zhqi@outlook.jp
