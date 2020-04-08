@@ -524,7 +524,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -68.399994}
+  m_AnchoredPosition: {x: -6, y: -70}
   m_SizeDelta: {x: 449.6, y: 136.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &889735287
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.17030083, g: 0.52685654, b: 0.8396226, a: 1}
+  m_Color: {r: 0.08590075, g: 0.31132078, b: 0.083704166, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -558,7 +558,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Zhang's Story\n\u5F35\u306E\u7269\u8A9E"
+  m_Text: "\u5B9D\u77F3\u96A0\u308C\u3093\u574A"
 --- !u!222 &889735288
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -839,10 +839,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 052624ffb19384c29b0784b3ea7fd4f7, type: 3}
-    m_FontSize: 50
+    m_FontSize: 53
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 5
+    m_MinSize: 0
     m_MaxSize: 53
     m_Alignment: 1
     m_AlignByGeometry: 0
@@ -850,7 +850,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Zhang's Story\n\u5F35\u306E\u7269\u8A9E"
+  m_Text: "\u5B9D\u77F3\u96A0\u308C\u3093\u574A"
 --- !u!222 &1515556260
 CanvasRenderer:
   m_ObjectHideFlags: 0
